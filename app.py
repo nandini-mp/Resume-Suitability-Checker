@@ -1,3 +1,4 @@
+pip install streamlit nltk scikit-learn pandas 'PyPDF2'
 import streamlit as st
 import pandas as pd
 import numpy as np
